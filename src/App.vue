@@ -1,14 +1,14 @@
 <template>
-  <HelloWorld />
+  <MajesticTZ />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MajesticTZ from './components/MajesticTZ.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    MajesticTZ
   }
 }
 </script>
