@@ -258,8 +258,9 @@ export default ({
               flex-direction: column;
               .border-tower{
                 width: 100%;
-                background: radial-gradient(circle, rgba(181,180,182,1) 41%, rgba(163,161,163,1) 70%);;
+                background: radial-gradient(circle, rgba(181,180,182,1) 41%, rgba(163,161,163,1) 70%);
                 height: 4.7vw;
+                background-position: center;
               }
             }
           }
